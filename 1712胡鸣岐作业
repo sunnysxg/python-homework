@@ -1,0 +1,12 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+if enter
+ str=raw-input("请输入学号:");
+ def str:
+  str=j
+ f = r"考试成绩"
+ with open(f,'r') as file:
+  l1 = file.readlines()
+ print(l1[j])
+if exit
+ break 
